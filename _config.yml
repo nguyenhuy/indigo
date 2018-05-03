@@ -1,6 +1,6 @@
 # main text of home
 name: Huy Nguyen
-bio: iOS Software Engineer @ Pinterest <br> Core Contributor of AsyncDisplayKit <br> Living in Dublin, Ireland
+bio: iOS Software Engineer @ Pinterest <br> Core Contributor of Texture (formerly AsyncDisplayKit) <br> Living in Dublin, Ireland
 
 # twitter summary info
 description: Technology and dogs
@@ -52,7 +52,7 @@ pinterest: huynguyen
 
 # Blog posts authors
 authors:
-    johndoe:
+    huy:
         name: Huy Nguyen
         bio: iOS Software Engineer @ Pinterest
         external-image: false
@@ -62,7 +62,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
