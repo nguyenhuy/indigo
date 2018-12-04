@@ -37,7 +37,7 @@ analytics-google: 'UA-91441682-1'
 #facebook: myfacebook
 github: nguyenhuy
 linkedin: huynguyen15
-twitter: huynguyen1511
+twitter: huynguyen15_
 pinterest: huynguyen
 # google: mygoogle
 # instagram: myinstagram
@@ -57,7 +57,7 @@ authors:
         bio: iOS Software Engineer @ Pinterest
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: huynguyen1511
+        twitter: huynguyen15_
     
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
